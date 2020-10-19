@@ -20,6 +20,6 @@
 <p align = "center"><a href="https://www.linkedin.com/in/nishara-ramasinghe-7976ab15a/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@rsnramasinghe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  </p>  
   
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{rishier827}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
