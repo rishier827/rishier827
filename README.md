@@ -1,6 +1,5 @@
 ### Hi there ! 👋😄
 
-
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning + Cyber Secuirty.
@@ -14,76 +13,10 @@
 😄 Pronouns: Anything you like.
 <!--- - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
 
-![](https://github-readme-stats.vercel.app/api?username=rishier827&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+![Rishie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishier827&show_icons=true&theme=radical)
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishier827&layout=compact)](https://github.com/rishier827/github-readme-stats) -->
 <hr>
-
-### How I mange my daily time *Programming*
-
-<br>
-
-<!--START_SECTION:waka-->
-```text
-
-Daily: Today Work
-
-Jupyter Notebook   11 hrs 30 mins   ██████████████████████░░░   82.50 % 
-Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Hack               01 hrs 30 min    ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-```
-
-<!--END_SECTION:waka-->
-<hr>
-
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
-<br>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
-
-## Tech
-
-- Python
-  - Flask
-  - Sklearn
-  - Pandas
-  - Matplotlib
-  - Numpy
-  - bs4
-  - Selenium
-  - Flask Restful
-  - Tensorflow
-  - Mongodb
-  - Firebase
-  - Sockets
-  - OOP
-  - Streamlit
-  - Speech Recognition
-  
-<br>
-
-- JavaScript
-  - ReactJS
-  - Firebase
-  - OOP
-  
-<br>
-
-- C
-  - Arduino
-  
-<br>
-
-- Html
-  - Bootstrap
-  
-<br>
-
-- Css
-  - Bootstrap
-
 <br>
 
 <p align = "center"><b>You can find me here</b></p>
@@ -100,9 +33,5 @@ Hack               01 hrs 30 min    ███░░░░░░░░░░░�
 <br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
-
-<img align="center" src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="500" height="320">
 
 <br>
