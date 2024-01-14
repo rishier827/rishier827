@@ -1,28 +1,46 @@
-### Hi there ! 👋😄
+### Hey I am Nishara Ramasinghe(Rishie)👋😄
 
-**Here are some ideas to get you started:**
+I am a passionate, creative developer with 3+ years of industrial experience. I’m interested in software design and architecture,
+full-stack development, AI, and cloud computing.
 
-- 🔭 I’m currently working on Deep Learning + Cyber Secuirty.
-- 🌱 I’m currently learning AI Python, Pytorch.
-- 👯 I’m looking to collaborate on Kaggle and Research-based projects.
-- 💬 Ask me about *Python*.
-- 2021 Goals : Contribute to more open source projects, Release a pip package, Go in depth in to AI, Blockchain and CyberSecurity..
-- ⚡ Fun fact: Sometimes i wanna be happy without doing nothing
-<!---- 🤔 I’m looking for help with [Stacked Hourglass Network](https://arxiv.org/abs/1603.06937#:~:text=We%20refer%20to%20the%20architecture,benchmarks%20outcompeting%20all%20recent%20methods.), [JPP-Net](https://arxiv.org/pdf/1804.01984).-->
-- 📫 How to reach me: rsnramasinghe@gmail.com
-😄 Pronouns: Anything you like.
-<!--- - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
+Obsessed about crafting quality software: Performant, clean, tested and accessible.
 
-![Rishie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishier827&show_icons=true&theme=radical)
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishier827&layout=compact)](https://github.com/rishier827/github-readme-stats) -->
+All about me:
+
+- Programming
+- Writer
+- Fitness
+- Martial Arts
+- Love to read
+- Gamer
+
+
+## 📦 Toolbox
+
+**Cloud:** `Azure` `AWS` 
+
+**Backend Development:** `Typescript` `Java(SpringBoot)` `Python(DJango/Flask)` `Node.js` `Nest.js` `Firebase`
+
+**Frontend Development:** `React` `CSS` `Angular` `Tailwind` `Material-UI`
+
+**Database:** `MySQL` `MariaDB` `Firestore` `CosmosDB`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Testing:**  `Playwright` `Postman`
+
+**Others:** `Agile` `Confluence` `Jira` `Octoparse(scraping)` `TDD` `Product/Domain focused mindset` `Team building/knowledge sharing`  
+ 
+## ✨ Fun Facts 
+
+- As a kid, I wanted to be an astronaut.
+- I love using Mac for development.
+
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nishara-ramasinghe/) or [gmail](nishara.ramasinghe@gmail.com). 
 <hr>
-<br>
-
-<p align = "center"><b>You can find me here</b></p>
-<p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
-<!--<p align = "center"><a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a></p>  -->
-<p align = "center"><a href="https://www.linkedin.com/in/nishara-ramasinghe-7976ab15a/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@rsnramasinghe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  </p>  
   
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{rishier827}/count.svg)
@@ -32,6 +50,7 @@
 
 <br>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+![Rishie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishier827&show_icons=true&theme=radical)
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishier827&layout=compact)](https://github.com/rishier827/github-readme-stats) -->
 <br>
