@@ -19,7 +19,7 @@ All about me:
 
 **Cloud:** `Azure` `AWS` 
 
-**Backend Development:** `Typescript` `Java(SpringBoot)` `Python(DJango/Flask)` `Node.js` `Nest.js` `Firebase`
+**Backend Development:** `Typescript` `Java(SpringBoot)` `Python(DJango/Flask/Fast API)` `Node.js` `Nest.js` `Firebase`
 
 **Frontend Development:** `React` `CSS` `Angular` `Tailwind` `Material-UI`
 
