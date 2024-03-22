@@ -12,7 +12,7 @@ All about me:
 - Fitness
 - Martial Arts
 - Love to read
-- Gamer
+- Gaming
 
 
 ## 📦 Toolbox
