@@ -1,6 +1,6 @@
 ### Hey I am Nish👋😄
 
-I am a passionate, creative developer with 3+ years of industrial experience. I’m interested in software design and architecture,
+I am a passionate, creative developer with 4+ years of industrial experience. I’m interested in software design and architecture,
 full-stack development, AI, and cloud computing.
 
 Obsessed about crafting quality software: Performant, clean, tested and accessible.
