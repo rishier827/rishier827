@@ -17,13 +17,15 @@ All about me:
 
 ## 📦 Toolbox
 
-**Cloud:** `Azure` `AWS` 
+**Backend Development:** `Typescript` `Python(DJango/Flask/Fast API)` `Java(SpringBoot)` `Node.js` `Nest.js` `Firebase` `Supabase`
 
-**Backend Development:** `Typescript` `Java(SpringBoot)` `Python(DJango/Flask/Fast API)` `Node.js` `Nest.js` `Firebase`
+**Frontend Development:** `React` `NextJs` `CSS` `Angular` `Tailwind` `Material-UI`
 
-**Frontend Development:** `React` `CSS` `Angular` `Tailwind` `Material-UI`
+**Cloud:**  `AWS` `Azure`
 
-**Database:** `MySQL` `MariaDB` `Firestore` `CosmosDB`
+**AI** `LLM` `Prompt Engineering` `AI Agents` 
+
+**Database:** `PostgresSQL` `MongoDB` `MySQL` `MariaDB` `Firestore` `DynamoDB`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
@@ -39,18 +41,5 @@ All about me:
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nishara-ramasinghe/) or [gmail](nishara.ramasinghe@gmail.com). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nishara-ramasinghe/) or (nishara.ramasinghe@gmail.com). 
 <hr>
-  
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{rishier827}/count.svg)
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
-
-<hr>
-
-<br>
-
-![Rishie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishier827&show_icons=true&theme=radical)
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishier827&layout=compact)](https://github.com/rishier827/github-readme-stats) -->
-<br>
