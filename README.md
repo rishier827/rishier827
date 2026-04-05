@@ -7,6 +7,15 @@ Obsessed about crafting quality software: Performant, clean, tested and accessib
 
 All about me:
 
+# Nishara Ramasinghe (rishier827)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-codewithlucy.vercel.app-blue?style=for-the-badge&logo=vercel)](https://codewithlucy.vercel.app/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-CodeWithLucy-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/CodeWithLucy)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Code_with_Lucy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@codewithlucy)
+
+
 - Programming
 - Writer
 - Fitness
