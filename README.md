@@ -9,7 +9,7 @@ All about me:
 
 # Nishara Ramasinghe (rishier827)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codewithlucy.vercel.app-blue?style=for-the-badge&logo=vercel)](https://codewithlucy.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codewithlucy.com-blue?style=for-the-badge&logo=vercel)](https://codewithlucy.com)
 
 [![Twitter](https://img.shields.io/badge/Twitter-CodeWithLucy-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/CodeWithLucy)
 
